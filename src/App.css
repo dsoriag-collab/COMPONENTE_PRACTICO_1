@@ -61,7 +61,6 @@ body {
   color: white;
 }
 
-/* Responsive */
 
 @media (max-width: 768px) {
   .cards-container {
@@ -101,5 +100,4 @@ body {
 
 .navbar ul li {
   cursor: pointer;
-  /* Tus otros estilos de diseño aquí */
 }
